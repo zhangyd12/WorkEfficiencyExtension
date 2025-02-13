@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "提高打工性价比神器",
+  "version": "1.0",
+  "description": "计算每时、每日、每周和每月的收入。",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": []
+} 
